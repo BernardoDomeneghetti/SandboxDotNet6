@@ -1,0 +1,15 @@
+/home/bernardo/Documents/Projects/SandboxDotNet6/DesignPatternsStudy/bin/Debug/net6.0/DesignPatternsStudy
+/home/bernardo/Documents/Projects/SandboxDotNet6/DesignPatternsStudy/bin/Debug/net6.0/DesignPatternsStudy.deps.json
+/home/bernardo/Documents/Projects/SandboxDotNet6/DesignPatternsStudy/bin/Debug/net6.0/DesignPatternsStudy.runtimeconfig.json
+/home/bernardo/Documents/Projects/SandboxDotNet6/DesignPatternsStudy/bin/Debug/net6.0/DesignPatternsStudy.dll
+/home/bernardo/Documents/Projects/SandboxDotNet6/DesignPatternsStudy/bin/Debug/net6.0/ref/DesignPatternsStudy.dll
+/home/bernardo/Documents/Projects/SandboxDotNet6/DesignPatternsStudy/bin/Debug/net6.0/DesignPatternsStudy.pdb
+/home/bernardo/Documents/Projects/SandboxDotNet6/DesignPatternsStudy/obj/Debug/net6.0/DesignPatternsStudy.csproj.AssemblyReference.cache
+/home/bernardo/Documents/Projects/SandboxDotNet6/DesignPatternsStudy/obj/Debug/net6.0/DesignPatternsStudy.GeneratedMSBuildEditorConfig.editorconfig
+/home/bernardo/Documents/Projects/SandboxDotNet6/DesignPatternsStudy/obj/Debug/net6.0/DesignPatternsStudy.AssemblyInfoInputs.cache
+/home/bernardo/Documents/Projects/SandboxDotNet6/DesignPatternsStudy/obj/Debug/net6.0/DesignPatternsStudy.AssemblyInfo.cs
+/home/bernardo/Documents/Projects/SandboxDotNet6/DesignPatternsStudy/obj/Debug/net6.0/DesignPatternsStudy.csproj.CoreCompileInputs.cache
+/home/bernardo/Documents/Projects/SandboxDotNet6/DesignPatternsStudy/obj/Debug/net6.0/DesignPatternsStudy.dll
+/home/bernardo/Documents/Projects/SandboxDotNet6/DesignPatternsStudy/obj/Debug/net6.0/ref/DesignPatternsStudy.dll
+/home/bernardo/Documents/Projects/SandboxDotNet6/DesignPatternsStudy/obj/Debug/net6.0/DesignPatternsStudy.pdb
+/home/bernardo/Documents/Projects/SandboxDotNet6/DesignPatternsStudy/obj/Debug/net6.0/DesignPatternsStudy.genruntimeconfig.cache
